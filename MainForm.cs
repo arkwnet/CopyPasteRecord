@@ -1,5 +1,6 @@
 ﻿// コピペレコーダー Ver.1.0
 // (c) 2021 Sora Arakawa all rights reserved.
+// Licensed under the MIT License
 
 using System;
 using System.Drawing;

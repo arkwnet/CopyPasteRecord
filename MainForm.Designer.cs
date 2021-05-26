@@ -93,16 +93,16 @@
 			// contextMenuStrip1
 			// 
 			this.contextMenuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-			this.CopyToolStripMenuItem,
-			this.DeleteToolStripMenuItem,
-			this.AllClearToolStripMenuItem,
-			this.toolStripMenuItem1,
-			this.ManualToolStripMenuItem,
-			this.ArakawaToolStripMenuItem,
-			this.CPRToolStripMenuItem,
-			this.VersionToolStripMenuItem,
-			this.toolStripMenuItem2,
-			this.CloseToolStripMenuItem});
+            this.CopyToolStripMenuItem,
+            this.DeleteToolStripMenuItem,
+            this.AllClearToolStripMenuItem,
+            this.toolStripMenuItem1,
+            this.ManualToolStripMenuItem,
+            this.ArakawaToolStripMenuItem,
+            this.CPRToolStripMenuItem,
+            this.VersionToolStripMenuItem,
+            this.toolStripMenuItem2,
+            this.CloseToolStripMenuItem});
 			this.contextMenuStrip1.Name = "contextMenuStrip1";
 			this.contextMenuStrip1.Size = new System.Drawing.Size(223, 192);
 			// 
@@ -251,6 +251,7 @@
 			this.Controls.Add(this.pictureBox1);
 			this.Controls.Add(this.listBox1);
 			this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+			this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
 			this.MaximizeBox = false;
 			this.MinimizeBox = false;
 			this.Name = "MainForm";
